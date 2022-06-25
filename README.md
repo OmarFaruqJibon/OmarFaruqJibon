@@ -1,4 +1,4 @@
-![I am OmarFaruqJibon](https://i.postimg.cc/bJ7CxVyL/Social-networking-pana.png)
+![I am OmarFaruqJibon](https://i.postimg.cc/YSbMx698/3426526.jpg)
 
 
 <h1 align="center">Hi 👋, I'm MD Omar Faruq</h1>
