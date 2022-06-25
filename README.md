@@ -1,4 +1,4 @@
-![I am OmarFaruqJibon](https://i.postimg.cc/YSbMx698/3426526.jpg)
+![I am OmarFaruqJibon]
 
 
 <h1 align="center">Hi 👋, I'm MD Omar Faruq</h1>
