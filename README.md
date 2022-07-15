@@ -4,8 +4,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/OmarFaruqJibon) 
 
-Welcome to my GitHub profile.
-Knock me: m.facebook.com/omarfarukjibon.a/
+Welcome to my GitHub profile
+
 
 Skills: C / JAVA / PYTHON / JAVASCRIPT / REACT / NODE.JS / HTML / CSS
  
