@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm MD Omar Faruq</h1>
+<h1 align="center">Hi, I'm MD Omar Faruq</h1>
 <h3 align="center">Software Engineer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/OmarFaruqJibon) 
@@ -7,20 +7,14 @@
 Welcome to my GitHub profile
 
 
-Skills: C / JAVA / PYTHON / JAVASCRIPT / REACT / NODE.JS / HTML / CSS
+Skills: C / JAVA / PYTHON / JAVASCRIPT / REACT / NODE.JS 
  
 
-- 🔭 I’m currently working on Data Science, Machine Learning, Deep Learning
-
-- 🌱 I’m currently learning **JS, Python, React**
+- 🔭 I’m currently working on Machine Learning, Deep Learning
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmarFaruqJibon](https://github.com/OmarFaruqJibon)
 
-- 📝 I regularly write articles on [HERE](https://omarfaruqjibon.github.io/my-portfolio)
-
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
-
-- 📫 How to reach me **omarfarukjibon418@gmail.com**
+- 📫 How to reach me **omarfaruq.jb@gmail.com**
 
 - 📝 Visit my Portfolio [HERE](https://omar-faruq-jibon.web.app/)
 
